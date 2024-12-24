@@ -20,6 +20,7 @@ export const styles = StyleSheet.create({
     flex: 1,
     height: 56,
     padding: 16,
+    fontSize: 16,
     backgroundColor: '#1F1F1F',
     color: '#FDFCFE',
     borderRadius: 5
